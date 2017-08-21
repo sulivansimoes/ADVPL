@@ -8,6 +8,9 @@
 
 User function zTrigger(cCampo)
 
+	Local aArea:= GetArea()
+	Local nLin := n
+
   	dbSelectArea("SX7")
 	dbSetOrder(1)           
 	if ExistTrigger(cCampo)   
