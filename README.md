@@ -1,2 +1,2 @@
 # ADVPL
-Diversas funções em Advpl
+Funções em Advpl
